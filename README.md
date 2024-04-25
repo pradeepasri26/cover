@@ -31,7 +31,6 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
-## HTML
 ```
 <!DOCTYPE html>
 <html lang="en">
